@@ -74,12 +74,9 @@ Follow these steps to get your bot up and running:
     BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE' 
     ```
 
-2.  **Run `python3 2FA.py`:**
+2.  **Run `python3 2FA.py`**
 
-3.  **Run the Bot:** Double-click the `run_bot.bat` file.
-
-A Tkinter GUI window will appear. Click "Start Bot" to activate your Telegram bot. You can also "Hide to Tray" to minimize it to your system tray.
-
+3.  **Congratulations! Your bot is now active**.
 ---
 
 ## Usage (Telegram)
