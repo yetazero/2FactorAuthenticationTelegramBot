@@ -74,13 +74,7 @@ Follow these steps to get your bot up and running:
     BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE' 
     ```
 
-2.  **Open `run_bot.bat`:** This file is used to run your bot without a console window. Ensure its content is exactly as follows:
-
-    ```batch
-    @echo off
-    pythonw 2FA.py
-    exit
-    ```
+2.  **Run `python3 2FA.py`:**
 
 3.  **Run the Bot:** Double-click the `run_bot.bat` file.
 
