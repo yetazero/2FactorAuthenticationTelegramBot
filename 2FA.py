@@ -10,7 +10,6 @@ import sys
 # IMPORTANT: Replace 'YOUR_TELEGRAM_BOT_TOKEN_HERE' with your actual bot token.
 BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE'
 
-# Проверяем, был ли заменен токен-заполнитель
 if BOT_TOKEN == 'YOUR_TELEGRAM_BOT_TOKEN_HERE' or not BOT_TOKEN:
     print("Error: Please replace 'YOUR_TELEGRAM_BOT_TOKEN_HERE' in the script with your actual bot token.")
     sys.exit(1)
